@@ -5,7 +5,7 @@ import { UserService } from '../user/service';
 import { FeatureService } from './service';
 import { FeatureType } from './types';
 
-const STAFF = ['@toeverything.info', '@affine.pro'];
+const STAFF = ['@nana.co', '@nana.sa];
 
 export enum EarlyAccessType {
   App = 'app',
