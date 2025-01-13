@@ -1,3 +1,3 @@
 export const setup = () => {
-  process.env.TZ = 'Asia/Singapore';
+  process.env.TZ = 'Asia/Riyadh';
 };
